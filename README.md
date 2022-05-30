@@ -1,2 +1,1 @@
-# Mod_12
-Credit Risk Resampling
+# Credit Risk Resampling
