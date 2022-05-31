@@ -5,10 +5,9 @@ Using the imbalanced-learn library, a logistic regression model is used to compa
 ![](https://github.com/JEKlektik/Mod_12/blob/ed48bfaf4432c0e165945ced43d1ea9e4ec888f4/Resources/Screen%20Shot%202022-05-29%20at%209.59.00%20PM.png)
 
 # Instructions
-- Split the Data into Training and Testing Sets
-- Create a Logistic Regression Model with the Original Data
-- Predict a Logistic Regression Model with Resampled Training Data
-- Write a Credit Risk Analysis Report
+- Prepare the data for use on a neural network model.
+- Compile and evaluate a binary classification model using a neural network.
+- Optimize the neural network model.
 
 # Contributors
 Starter code was provided by the UC Berkely Extensions Fintech Bootcamp program. Modifications were performed by James Milan.
